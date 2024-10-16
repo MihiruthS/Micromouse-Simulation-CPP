@@ -24,4 +24,5 @@ The simulation utilizes the **floodfill algorithm** to:
 ## Acknowledgment
 We would like to thank the developers of the MMS platform for providing this invaluable platform to test and validate the algorithm.
   
-
+## Contact
+If you have any questions or need further assistance, feel free to contact me via email: mihiruth@gmail.com
