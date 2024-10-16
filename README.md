@@ -2,6 +2,8 @@
 
 This repository contains the micromouse maze-solving algorithm developed for **SLIIT RoboFest 2024**. We used this simulation to test and fine-tune the algorithm before implementing it on the physical micromouse robot.
 
+https://github.com/user-attachments/assets/b5571eb1-7306-4f2b-8a41-90eb4061dac1
+
 ## Algorithm Overview
 
 The simulation utilizes the **floodfill algorithm** to:  
